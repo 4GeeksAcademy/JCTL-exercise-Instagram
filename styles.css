@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/proxy/YSfpmzr_6xVq80_EwCrBTVATvkyswrznWIc1_0bK4SihUCbW6jx9aqG2wE2rYp6k50NIDzy_y3mRarQkz-k4bXgNfH8O3yq7wHxUMEMKMVPILyog8ErrJI9M-cysSOOIFB_cgs5Nsh5E5mmftWxps04V);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 20px auto;
+    padding: 10px;
+    width: 500px;
+    border-bottom: 1px solid #ccc;
+}
+.post {
+    background-color: rgb(230, 229, 238);
+    display: block;
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    border-bottom: 1px solid #ccc;
+}
+.Header {
+    padding: 8px 15px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    margin: auto;
+
+}
+img {
+    width: 100%;
+    height: 400px;
+    display: block;
+    object-position: center;
+    object-fit: cover;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    
+}
+.Descripción {
+    padding: 5px 15px;
+
+}
